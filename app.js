@@ -3,6 +3,7 @@ const _ = require('underscore');
 
 var port = process.env.PORT || 8080;
 var animals = {
+"horse":"pirobo",
     "cat": "meow",
     "dog": "bark",
     "eel": "hiss",
